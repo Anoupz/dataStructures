@@ -1,17 +1,17 @@
-#DataStructures in Typescript with tests
+# DataStructures in Typescript with tests
 Sample project setup need to write data structures in typescript with tests.
 
-##Install all dependencies
+## Install all dependencies
 ```bash
 npm install
 ```
 
-##To run tests
+## To run tests
 ```bash
 npm run test
 ```
 
-##More resources:
+## More resources:
 
 [ts-jest](https://kulshekhar.github.io/ts-jest/)
 
